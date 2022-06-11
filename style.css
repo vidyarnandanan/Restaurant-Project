@@ -1,0 +1,19 @@
+
+  body{
+      
+      background-image: url(kerala.png);
+          background-repeat: no-repeat;
+          background-size: auto;
+       background-size: cover;
+      
+  }
+  button{
+     background-image: url(kerala.png);
+      font-family: cursive;
+  font-size: 18px;
+    color:white
+      
+  }
+  button:hover{
+      background-color:red;   
+  }
